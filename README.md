@@ -1,13 +1,6 @@
-# Hello, World! 🌍👋
+# Hello, World! 🌍👋 I’m @CodeManMike
 
-  _____          _      
- / ____|        | |     
-| |     ___   __| | ___ 
-| |    / _ \ / _` |/ _ \
-| |___| (_) | (_| |  __/
- \_____\___/ \__,_|\___|
-
-              
+             
 ## 🚀 About Me
 I’m a software developer with a keen interest in .NET and C#.  
 I'm passionate about AI, outer space, and all things sci-fi.  
