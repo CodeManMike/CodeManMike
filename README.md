@@ -15,6 +15,6 @@ I’m looking to collaborate on innovative projects that leverage AI and .NET.
 I'm particularly interested in projects that can make a significant impact on everyday life.
 
 ## 📫 Contact Me
-You can reach me through my GitHub profile or drop me an email at frenchie-mike@hotmail.com.  
+You can reach me through my GitHub profile or drop me an email at codemanmike@outlook.com.  
 I'm always open to discussing new ideas, projects, and collaborations.
 
