@@ -1,4 +1,4 @@
-# Hello, World! 🌍👋 I’m @CodeManMike
+# Hey all!👋 I’m @CodeManMike
 
              
 ## 🚀 About Me
@@ -7,7 +7,8 @@ I'm passionate about AI, outer space, and all things sci-fi.
 As a tech enthusiast, I'm always on the lookout for the latest advancements in technology and science.
 
 ## 💻 Current Projects
-I’m currently working on enhancing my skills in .NET and C#, and exploring the fascinating world of AI.  
+I’m currently working on enhancing my skills in .NET and C#, and exploring the fascinating world of AI.
+I am working on a total overhaul mod for Factorio  
 I'm also developing IDKook, an AI-powered cooking app that's my brainchild project.
 
 ## 🤝 Collaboration
