@@ -1,10 +1,10 @@
-🎛️ Hey, I'm Mike or @CodeManMike
-Cape Town-born code wrangler, ex-sound engineer, and full-time system obsessive.
+# 🎛️ Hey, I'm Mike or @CodeManMike
+## Cape Town-born code wrangler, ex-sound engineer, and full-time system obsessive.
 I build software that works, then quietly refactor it until it's actually good.
 
 These days I'm deep in the .NET universe, shipping everything from mobile apps to embedded UI on Raspberry Pi, and quietly plotting my evolution into a software architect who designs things right the first time (or at least the second).
 
-🔧 What I Actually Do
+### 🔧 What I Actually Do
 - Craft C# and .NET systems with love, linting, and lots of coffee
 - Build cross-platform UIs using MAUI and Blazor (and React Native when the stars misalign)
 - Wire up real-time systems with MQTT and WebSockets
@@ -12,7 +12,7 @@ These days I'm deep in the .NET universe, shipping everything from mobile apps t
 - Fix bugs I definitely created
 - Occasionally break prod... for science
 
-🌍 Things I Enjoy (Possibly Too Much)
+### 🌍 Things I Enjoy (Possibly Too Much)
 
 - Making sense of messy systems
 - Replacing TODOs with actual code
@@ -21,13 +21,13 @@ These days I'm deep in the .NET universe, shipping everything from mobile apps t
 - Reading about quantum physics and pretending I fully understand it
 - Using AI tools like Copilot or ChatGPT to argue with myself more efficiently
 
-🎚️ Backstory in One Line
+### 🎚️ Backstory in One Line
 Spent 13 years mixing bands and weddings — now I mix architecture patterns and design principles. It’s louder here (Not really, but I like the silence).
 
-🧠 Where I'm Headed
+### 🧠 Where I'm Headed
 I’m levelling up toward software architecture, focusing on clean design, resilient systems, and building software that scales without screaming.
 
-🛰️ Let’s Chat
+### 🛰️ Let’s Chat
 If you're into elegant systems, gnarly bugs, or just cool tech, I’m all ears (and keyboards).
 Open to collabs, code convos, and curious connections.
 
