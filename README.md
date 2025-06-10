@@ -2,7 +2,7 @@
 ## Cape Town-born code wrangler, ex-sound engineer, and full-time system obsessive.
 I build software that works, then quietly refactor it until it's actually good.
 
-These days I'm deep in the .NET universe, shipping everything from mobile apps to embedded UI on Raspberry Pi, and quietly plotting my evolution into a software architect who designs things right the first time (or at least the second).
+These days I'm deep in the .NET universe, shipping everything from mobile apps to full stack Winforms and API work, and quietly plotting my evolution into a software architect who designs things right the first time (or at least the second).
 
 ### 🔧 What I Actually Do
 - Craft C# and .NET systems with love, linting, and lots of coffee
