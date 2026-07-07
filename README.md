@@ -1,4 +1,7 @@
 # 🎛️ Hey, I'm Mike or @CodeManMike
+
+[![Sponsor CodeManMike](https://img.shields.io/github/sponsors/CodeManMike?label=Sponsor&logo=GitHub&color=db61a2)](https://github.com/sponsors/CodeManMike)
+
 ## Cape Town-born code wrangler, ex-sound engineer, and full-time system obsessive.
 I build software that works, then quietly refactor it until it's actually good.
 
