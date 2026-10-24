@@ -1,38 +1,34 @@
-# 🎛️ Hey, I'm Mike or @CodeManMike
+# Hey, I'm Mike (@CodeManMike)
 
 [![Sponsor CodeManMike](https://img.shields.io/github/sponsors/CodeManMike?label=Sponsor&logo=GitHub&color=db61a2)](https://github.com/sponsors/CodeManMike)
 
-## Cape Town-born code wrangler, ex-sound engineer, and full-time system obsessive.
-I build software that works, then quietly refactor it until it's actually good.
+I'm a software developer in Cape Town. I spent 13 years as a sound engineer mixing bands and weddings, and now I build software, mostly in .NET and C#. I'm strongest in messy real-world business systems: working out what they actually do, then making them better without a risky full rewrite.
 
-These days I'm deep in the .NET universe, shipping everything from mobile apps to full stack Winforms and API work, and quietly plotting my evolution into a software architect who designs things right the first time (or at least the second).
+## What I'm building
 
-### 📺 What I'm Building Right Now
 **[The Tube Desktop](https://github.com/CodeManMike/the-tube-desktop)**: YouTube as a proper Windows app. A queue that stays put while you browse, a floating picture-in-picture window, SponsorBlock, a tray icon and media hotkeys, with your own account, 4K and HDR. It's free. [Download the latest release](https://github.com/CodeManMike/the-tube-desktop/releases/latest).
 
-### 🔧 What I Actually Do
-- Craft C# and .NET systems with love, linting, and lots of coffee
-- Build cross-platform UIs using MAUI and Blazor (and React Native when the stars misalign)
-- Wire up real-time systems with MQTT and WebSockets
-- Write tests I hope I’ll thank myself for later (NUnit gang)
-- Fix bugs I definitely created
-- Occasionally break prod... for science
+## What I work with
 
-### 🌍 Things I Enjoy (Possibly Too Much)
+- **.NET and C#**: APIs, WinForms, and cross-platform apps with MAUI and Blazor (React Native when a project needs it)
+- **Real-time systems** with MQTT and WebSockets
+- **Tests** in NUnit, written for the version of me who has to change the code six months later
+- **TypeScript, Python and Lua** when a project calls for them. The Tube Desktop is Electron and TypeScript.
 
-- Making sense of messy systems
-- Replacing TODOs with actual code
-- Home automation experiments gone slightly too far
-- Game modding (especially when it involves aliens and conveyor belts)
-- Reading about quantum physics and pretending I fully understand it
-- Using AI tools like Copilot or ChatGPT to argue with myself more efficiently
+## How I build with AI
 
-### 🎚️ Backstory in One Line
-Spent 13 years mixing bands and weddings — now I mix architecture patterns and design principles. It’s louder here (Not really, but I like the silence).
+AI agents are part of how I work every day. Claude Code and Codex build and review alongside me, MCP servers connect them to the tools I actually use, and I write my own skills and workflows so they work the way I do. The plan, the decisions and the final check stay with me.
 
-### 🧠 Where I'm Headed
-I’m levelling up toward software architecture, focusing on clean design, resilient systems, and building software that scales without screaming.
+## Outside the day job
 
-### 🛰️ Let’s Chat
-If you're into elegant systems, gnarly bugs, or just cool tech, I’m all ears (and keyboards).
-Open to collabs, code convos, and curious connections.
+- Home automation that has gone slightly too far
+- Game modding, especially anything with aliens and conveyor belts
+- Reading about quantum physics
+
+## Where I'm headed
+
+I'm growing into software architecture: clean design, systems that hold up when things go wrong, and code the next person can pick up without a guided tour.
+
+## Get in touch
+
+If you're building something interesting, or you've found a bug in something I made, open an issue or reach out. I'm open to collaborations.
