@@ -7,6 +7,9 @@ I build software that works, then quietly refactor it until it's actually good.
 
 These days I'm deep in the .NET universe, shipping everything from mobile apps to full stack Winforms and API work, and quietly plotting my evolution into a software architect who designs things right the first time (or at least the second).
 
+### 📺 What I'm Building Right Now
+**[The Tube Desktop](https://github.com/CodeManMike/the-tube-desktop)**: YouTube as a proper Windows app. A queue that stays put while you browse, a floating picture-in-picture window, SponsorBlock, a tray icon and media hotkeys, with your own account, 4K and HDR. It's free. [Download the latest release](https://github.com/CodeManMike/the-tube-desktop/releases/latest).
+
 ### 🔧 What I Actually Do
 - Craft C# and .NET systems with love, linting, and lots of coffee
 - Build cross-platform UIs using MAUI and Blazor (and React Native when the stars misalign)
@@ -33,5 +36,3 @@ I’m levelling up toward software architecture, focusing on clean design, resil
 ### 🛰️ Let’s Chat
 If you're into elegant systems, gnarly bugs, or just cool tech, I’m all ears (and keyboards).
 Open to collabs, code convos, and curious connections.
-
-Let me know if you'd like a version with GitHub metrics, icons, or sections like “Pinned Projects” or “Currently Working On.” We can go full GitHub-pro mode too.
