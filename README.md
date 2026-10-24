@@ -24,29 +24,29 @@ Built with Electron and TypeScript, on castLabs' Widevine build.
 
 **.NET and C#** (my home ground)
 - Windows desktop apps in WPF and WinForms, on .NET 8 to 10
-- Cross-platform apps with MAUI and Blazor Hybrid, backed by ASP.NET Core and EF Core ([MAUI-POS-DASH](https://github.com/CodeManMike/MAUI-POS-DASH) is a full example, shared core and all)
-- Command-line tools and background services, like the one that runs my home media server
+- Cross-platform apps with MAUI and Blazor Hybrid
+- ASP.NET Core APIs with EF Core
+- Command-line tools and background services
 - Tests in NUnit and xUnit, written for the version of me who has to change the code six months later
 
 **Web and mobile**
 - React and Vite, packaged for Android and iOS with Capacitor
-- Next.js with Firebase (Firestore, Auth, Storage), including a public site with its own admin CMS
-- Electron and TypeScript for desktop apps that ride on the web
+- Next.js and TypeScript
+- Firebase: Firestore, Auth and Storage
+- Electron for desktop apps built on the web
 
-**Local AI and voice**
-- Python FastAPI backends paired with WPF front ends
-- Local text-to-speech (Chatterbox and F5-TTS), streaming speech-to-text, and voices generated on my own GPU, so nothing has to leave the machine
-- [TARS Desktop](https://github.com/CodeManMike/tars-desktop): a 90s-terminal client for my home assistant, with hands-free listening and a local GPU voice
-- An Elite Dangerous cockpit assistant that reads the game's journal and screen and takes voice commands
+**Python and local AI**
+- FastAPI backends paired with desktop front ends
+- Local text-to-speech and speech-to-text, run on my own GPU so nothing has to leave the machine
 
 **Game modding**
-- Unity games with BepInEx and Harmony, including digging into IL2CPP builds
-- Lua mods for Factorio and The Last Caretaker
-- IC10 automation scripts for Stationeers
+- Unity modding with BepInEx and Harmony, including IL2CPP builds
+- Lua
+- IC10 (in-game automation scripting)
 
 **Real-time and plumbing**
 - MQTT and WebSockets
-- PowerShell automation, and a home lab with a media server and a voice assistant
+- PowerShell automation
 
 ## How I build with AI
 
